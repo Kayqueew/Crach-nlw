@@ -2,7 +2,7 @@ const LinksSocialMedia = {
   github: 'kayqueew',
   youtube: 'channel/UCeHeT_EE-N8cXpeuq7-npZQ',
   facebook: 'kayque.rojer',
-  instagram: 'kayquelima04',
+  instagram: 'kayqueew',
   twitter: 'kayqueroger' 
 }
 
